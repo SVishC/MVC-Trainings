@@ -1,7 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMVCApplication", "DemoMVCApplication\DemoMVCApplication.csproj", "{C5896196-2355-43FD-B3B4-31FE5751BD3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{024C9CAA-17D4-498C-BEE0-9A3A97C2073C}"
+	ProjectSection(SolutionItems) = preProject
+		DemoMVCApplication.sql = DemoMVCApplication.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
